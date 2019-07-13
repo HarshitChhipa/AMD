@@ -1,0 +1,35 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 bg-white">
+      <h1>
+        Welcome to ATM
+      </h1>
+       <div class="form-group">
+    <label for="Amount">
+      Enter the Amount
+     </label>
+    <input type="number" class="form-control"          id="Amount" aria-describedby="EnterAmount"          placeholder="Enter the Amount">
+      </div>
+      <button type="submit" class="w-100 btn btn-primary">Get Money</button>
+    </div>
+    <div class="col-md-6 text-center pt-4">
+      <div class="bg-light">
+        <div>
+          <div>
+            <h5> 
+            You will get following amount
+            </h5>
+          </div>
+          <div>
+            <p>
+            1 notes of 1 
+            </p>
+            <div>
+          <div>
+      </div>
+    </div>
+  </div>
+</div>
+
+// Here is the link of the UI for ATM money dispenser.
+// https://codepen.io/harshit_chhipa/pen/bPJPVg
